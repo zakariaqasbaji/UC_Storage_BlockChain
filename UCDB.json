@@ -1,0 +1,21 @@
+{
+    "chain": [
+        {
+            "previousHash": "0",
+            "timestamp": 1640995200000,
+            "data": "C:/Users/LEnovo X250/OneDrive/Bureau/blockchain UC/test.txt",
+            "index": 0,
+            "nonce": 0,
+            "hash": "7d7e93f0abc3dafbcdc7ac398d80aa0088186328f8582687cb073d3f6e28d450"
+        },
+        {
+            "previousHash": "7d7e93f0abc3dafbcdc7ac398d80aa0088186328f8582687cb073d3f6e28d450",
+            "timestamp": 1642870411858,
+            "data": "C:/Users/LEnovo X250/OneDrive/Bureau/blockchain UC/test.txt",
+            "index": 2,
+            "nonce": 104,
+            "hash": "005a4596de94284b29dfb193ff83a3d00fc141e0f74ba2bcc664f84975575c8e"
+        }
+    ],
+    "difficulty": 2
+}

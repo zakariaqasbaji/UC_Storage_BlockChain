@@ -1,0 +1,79 @@
+Service name
+Supplier information
+1.	Supplier name
+2.	Address information
+3.	Contact person including contact details
+4.	Further information as required (e.g. supplier number)
+Clearance information
+(with location and date)
+1.	Responsible third-party representative
+2.	Responsible Suppplier Manager on service provider side
+Contract duration
+1.	Start and end dates
+2.	Rules regarding renewal and termination of the agreement (if applicable, rules for normal and early termination)
+Description/ desired service outcome
+1.	Business processes/ activities supported by the service
+2.	Desired outcome in terms of utility (example: “Field staff can access enterprise applications xxx and yyy without being constrained by location or time”)
+3.	Desired outcome in terms of warranty (example: “High availability required during office hours in locations …”)
+Interfaces and communication
+Interfaces and communication between contract parties
+1.	Contact points and details for both contractual parties
+2.	Description of the interfaces between the third-party, the service provider and any other relevant parties
+3.	Service Reporting (contents and intervals of service reports to be produced)
+4.	Service Reviews (description of the procedure for reviewing the service on a regular basis)
+5.	Procedure for handling exceptions and complaints (e.g. details to be included in formal complaints, agreed response times, escalation procedure)
+Service times
+1.	Hours when the service is required to be available
+2.	Exceptions (e.g. weekends, public holidays)
+Required types and levels of support
+1.	On-site support
+1.	Area/ locations
+2.	Types of users
+3.	Types of infrastructure to be supported
+4.	Reaction and resolution times (according to priorities, definition of priorities e.g. for the classification of Incidents)
+2.	Remote support
+1.	Area/ locations
+2.	Types of users (user groups granted access to the service)
+3.	Types of infrastructure to be supported
+4.	Reaction and resolution times (according to priorities, definition of priorities e.g. for the classification of Incidents)
+Service level requirements/ targets
+1.	Availability targets and commitments
+1.	Conditions under which the service is considered to be unavailable (e.g. if the service is offered at several locations)
+2.	Availability targets (exact definition of how the agreed availability levels will be calculated, based on agreed service time and downtime)
+3.	Reliability targets (required by some customers, usually defined as MTBF (Mean Time Between Failures) or MTBSI (Mean Time Between Service Incidents))
+4.	Maintainability targets (required by some customers, usually defined as MTRS (Mean Time to Restore Service))
+5.	Down times for maintenance (number of allowed downtimes, pre-notification periods)
+6.	Restrictions on maintenance, e.g. allowed maintenance windows, seasonal restrictions on maintenance, and procedures to announce planned service interruptions
+7.	Definitions of Major Incidents as well as Emergency Changes and Releases to resolve urgent issues, including procedures to announce unplanned service interruptions
+8.	Requirements regarding availability reporting
+2.	Capacity/ performance targets and commitments
+1.	Required capacity (lower/upper limit) for the service, e.g.
+1.	Numbers and types of transactions
+2.	Numbers and types of users
+3.	Business cycles (daily, weekly) and seasonal variations
+2.	Response times from applications
+3.	Requirements for scalability (assumptions for the medium and long-term increase in workload and service utilization)
+4.	Requirements regarding capacity and performance reporting
+3.	Service Continuity commitments (availability of the service in the event of a disaster)
+1.	Time within which a defined level of service must be re-established
+2.	Time within which normal service levels must be restored
+Technical standards and specification
+Mandated technical standards and specification of the technical service interface
+Responsibilities
+1.	Duties of the third party
+2.	Duties of the service provider
+3.	Responsibilities of service users (e.g. with respect to IT security)
+4.	IT Security aspects to be observed in the context of the service (if applicable, references to relevant IT Security Policies)
+Sub-contractors
+Sub-contractors used by the third party to fulfill the obligations defined in this agreement
+1.	List of sub-contractors used, including their roles
+2.	Methods applied to ensure that the services supplied by sub-contractors are aligned with and support this agreement
+Pricing model
+1.	Cost for the service provision
+2.	Rules for penalties/ charge backs
+Change history
+List of annexes and references
+(e.g. further contracts between the contractual parties which also apply)
+Glossary
+(if applicable)
+
