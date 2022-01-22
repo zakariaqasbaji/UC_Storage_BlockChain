@@ -17,7 +17,7 @@ UCChain.chain.push(UCChain.createGenesisBlock())
 //Manipulation
 
 //UCChain.addBlock(new Block(2,Date.now(), "C:/Users/LEnovo X250/OneDrive/Bureau/blockchain UC/test.txt", '0'));
-console.log("Is blockchain is Valid?",verifyBlockChain(UCChain))
+//console.log("Is blockchain is Valid?",verifyBlockChain(UCChain))
 
 
 

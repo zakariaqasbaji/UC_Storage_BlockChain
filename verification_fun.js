@@ -1,7 +1,15 @@
 const SHA256= require('crypto-js/sha256')
-fs=require('fs')
+fs=require('fs');
+const { Blockchain, Block } = require('./blockchain');
 const crypto = require('crypto');
-
+var jsonFile='./UCDB.json'
+var data = JSON.parse(fs.readFileSync(jsonFile).toString());
+let UCChain=new Blockchain();
+//console.log(JSON.stringify(archiveChain,null,4))
+UCChain.chain=data["chain"].map((x) => x)
+if(UCChain.chain.length== 0){
+UCChain.chain.push(UCChain.createGenesisBlock())
+}
 
 
 function verifyBlockChain(BlockChain) {
@@ -36,5 +44,10 @@ function verifyBlockChain(BlockChain) {
 
     return true;
   }
+
+
+
+  console.log("Is blockchain is Valid?",verifyBlockChain(UCChain))
+
 
   module.exports={verifyBlockChain};
